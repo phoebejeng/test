@@ -1,3 +1,4 @@
 <?php
-echo $argv[1] . PHP_EOL;
+$_arg = $argv[1];
+echo $_arg . PHP_EOL;
 ?>
