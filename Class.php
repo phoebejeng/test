@@ -3,6 +3,6 @@ class B1
 {
     public function __construct()
     {
-        echo 'I am constructor XD.' . PHP_EOL;
+        echo 'I am constructor.' . PHP_EOL;
     }
 }
